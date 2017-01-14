@@ -1,2 +1,3 @@
 name: Tatiana Erekhinskaya, Putting Structure into Text and Everything
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
